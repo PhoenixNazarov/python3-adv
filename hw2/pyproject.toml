@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "vnazarov_latex"
+version = "2.0.0"
+description = "A simple package to generate LaTeX tables and images"
+authors = ["vnazarov <vova24848@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,6 @@
+services:
+  generate:
+    build:
+      context: test_install_lib_for_generate_pdf
+    volumes:
+      - ./artifacts:/app/artifacts/

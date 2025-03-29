@@ -1,0 +1,3 @@
+Sync: 9.08 sec
+Threads: 8.96 sec
+Processes: 1.68 sec
